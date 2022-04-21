@@ -2,6 +2,8 @@
 
 To get started, head over to the [Wiki](https://github.com/homework-helpers-discord/.github/wiki) to learn how you can contribute to the project!
 
+Also, pardon our dust, we're still in the process of perfecting this repo.
+
 ## Contributors
 The Homework Helpers Math Textbook is created and maintained by a core team of contributors: **Conan**, **Genin**
 
