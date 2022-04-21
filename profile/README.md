@@ -1,12 +1,10 @@
-## Hi there 👋
+# Welcome to the Homework Helpers Math Textbook
 
-<!--
+To get started, head over to the [Wiki](https://github.com/homework-helpers-discord/.github/wiki) to learn how you can contribute to the project!
 
-**Here are some ideas to get you started:**
+## Contributors
+The Homework Helpers Math Textbook is created and maintained by a core team of contributors: **Conan**, **Genin**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+This project exists in its current state thanks to all the people who have contributed:
+
+(work in progress)
